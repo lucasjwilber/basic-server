@@ -32,6 +32,7 @@ Credits:
 	Demo Images:
 		Felicia Simion (ineedchemicalx.deviantart.com)
 		Unsplash (unsplash.com)
+		F-15 picture: Photo by Flynn Doherty on Unsplash
 
 	Icons:
 		Font Awesome (fontawesome.io)

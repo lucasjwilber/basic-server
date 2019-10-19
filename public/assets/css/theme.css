@@ -1,0 +1,56 @@
+/* coffee colors (from darkest to lightest):
+  #3D1C00
+  #854612
+  #BA743A
+  #ECA870
+  #FFD2AD 
+  */
+
+
+#header {
+  background-color: #3D1C00;
+}
+
+  #logo h1, #logo p {
+    color: #FFD2AD;
+  }
+
+  .icon {
+    color: #FFD2AD;
+  }
+  
+#main > section.one {
+  background-image: url("../../images/f15filtered.jpg");
+}
+  #main > section.one header h2 strong {
+    color: rgb(110, 110, 110);
+  }
+  #main > section.one header strong {
+    color: red;
+  }
+
+#main > section.two {
+  background-image: linear-gradient( #BA743A, #ECA870);
+}
+
+#main > section.three {
+  background-image: linear-gradient(#ECA870, #BA743A);
+}
+
+  .three p {
+    color: #3D1C00;
+  }
+
+#main > section.four {
+  color: #3D1C00;
+  background-image: linear-gradient(#BA743A, #854612);
+}
+
+  #contact h2 {
+  color: #3D1C00;
+  }
+
+#footer {
+  background-color: #3D1C00;
+  color: #FFD2AD;
+}
