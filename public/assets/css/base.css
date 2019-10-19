@@ -144,6 +144,10 @@ h3 {
   font-size: 1.5em;
 }
 
+h3 a {
+  border: none;
+}
+
 header {
   margin: 0 0 2em 0;
 }
