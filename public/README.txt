@@ -37,6 +37,9 @@ Credits:
 	Icons:
 		Font Awesome (fontawesome.io)
 
+	Colors:
+		Paletton (paletton.com)
+
 	Other
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)

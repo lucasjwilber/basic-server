@@ -6,51 +6,104 @@
   #FFD2AD 
   */
 
-
-#header {
-  background-color: #3D1C00;
-}
-
-  #logo h1, #logo p {
-    color: #FFD2AD;
+/* nav/sidebar */
+  #header {
+    background-color: #3D1C00;
   }
 
-  .icon {
-    color: #FFD2AD;
-  }
+    #logo h1,
+    #logo p,
+    .icon,
+    #nav ul li a.active span:before {
+      color: #FFD2AD;
+    }
+    #nav ul li a span:before {
+      color: #BA743A;
+    }
+
+    .image.avatar48 img {
+      border: 1px solid #FFD2AD;
+    }
+
+    #header .icons a {
+      color: #BA743A;
+    }
+      
+      #header .icons a:hover {
+        color: #FFD2AD;
+      }
   
-#main > section.one {
-  background-image: url("../../images/f15filtered.jpg");
-}
-  #main > section.one header h2 strong {
-    color: rgb(110, 110, 110);
+/* intro */
+  #main > section.one {
+    background-image: url("../../images/f15filtered.jpg");
   }
-  #main > section.one header strong {
-    color: red;
+    #main > section.one header h2 strong {
+      color: rgb(110, 110, 110);
+    }
+    #main > section.one header strong {
+      color: red;
+    }
+
+/* portfolio */
+  #main > section.two {
+    background-image: linear-gradient( #BA743A, #ECA870);
   }
 
-#main > section.two {
-  background-image: linear-gradient( #BA743A, #ECA870);
-}
+  .two h2, .two p {
+    color: #3D1C00
+  }
 
-#main > section.three {
-  background-image: linear-gradient(#ECA870, #BA743A);
-}
+/* about me */
+  #main > section.three {
+    background-image: linear-gradient(#ECA870, #BA743A);
+  }
 
-  .three p {
+    .three h2, .three p {
+      color: #3D1C00;
+    }
+
+/* contact */
+  #main > section.four {
     color: #3D1C00;
+    background-image: linear-gradient(#BA743A, #854612);
   }
 
-#main > section.four {
-  color: #3D1C00;
-  background-image: linear-gradient(#BA743A, #854612);
-}
+    #contact h2 {
+    color: #3D1C00;
+    }
 
-  #contact h2 {
-  color: #3D1C00;
+/* footer */
+  #footer {
+    background-color: #3D1C00;
+    color: #FFD2AD;
   }
 
-#footer {
-  background-color: #3D1C00;
-  color: #FFD2AD;
-}
+/* buttons */
+  .button,
+  input[value="Send Message"] {
+    color: #FFD2AD !important;
+  }
+
+  input[type="button"],
+  input[type="submit"],
+  input[type="reset"],
+  button,
+  .button {
+    background-color: #854612;
+  }
+
+  input[type="button"]:hover,
+  input[type="submit"]:hover,
+  input[type="reset"]:hover,
+  button:hover,
+  .button:hover {
+    background-color: #996236;
+  }
+
+  input[type="button"]:active,
+  input[type="submit"]:active,
+  input[type="reset"]:active,
+  button:active,
+  .button:active {
+    background-color: #996236;
+  }
