@@ -58,6 +58,13 @@
     font-weight: bold;
     color: #3D1C00
   }
+  .item header {
+    background-color: #FFD2AD;
+  }
+  .item a {
+    color: #3D1C00;
+  }
+
 
 /* about me */
   #main > section.three {
