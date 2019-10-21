@@ -67,4 +67,4 @@ Start time: 10:40
 
 Finish time: Sunday...
 
-Actual time needed to complete: In total I spent about 6 hours on this part.
+Actual time needed to complete: In total I spent about 6 hours on this part.	
