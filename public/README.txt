@@ -65,6 +65,6 @@ Estimate of time needed to complete: 1 hour
 
 Start time: 10:40
 
-Finish time: 
+Finish time: Sunday...
 
-Actual time needed to complete: 
+Actual time needed to complete: In total I spent about 6 hours on this part.
