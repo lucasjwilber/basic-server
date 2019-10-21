@@ -35,13 +35,14 @@
   
 /* intro */
   #main > section.one {
-    background-image: url("../../images/coffeeCup.jpg");
+    background-image: url("../../images/coffeeGif3.gif");
+    color: #FFD2AD;
   }
     #main > section.one header h2 strong {
-      color: rgb(110, 110, 110);
+      color: rgb(250, 165, 8);
     }
     #main > section.one header strong {
-      color: red;
+      color: rgb(250, 165, 8);
     }
 
 /* portfolio */
@@ -51,12 +52,12 @@
 
   .two h2 {
     font-family: 'Fredoka One', cursive;
-    color: #3D1C00
+    color: #FFD2AD;
   }
   .two p {
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
-    color: #3D1C00
+    color: #FFD2AD;
   }
   .item header {
     background-color: #FFD2AD;
@@ -68,7 +69,7 @@
 
 /* about me */
   #main > section.three {
-    background-image: linear-gradient(#BA743A, #ECA870);
+    background-image: linear-gradient( #BA743A, #ECA870);
   }
 
     .three h2, .three p {
@@ -78,11 +79,11 @@
 /* contact */
   #main > section.four {
     color: #3D1C00;
-    background-image: linear-gradient(#ECA870, #854612);
+    background-image: linear-gradient( #ECA870, #BA743A);
   }
 
     #contact h2 {
-    color: #3D1C00;
+      color: #3D1C00;
     }
 
 /* footer */
