@@ -35,7 +35,7 @@
   
 /* intro */
   #main > section.one {
-    background-image: url("../../images/coffeeGif3.gif");
+    /* background-image: url("../../images/coffeeGif3.gif"); */
     color: #FFD2AD;
   }
     #main > section.one header h2 strong {
@@ -43,6 +43,9 @@
     }
     #main > section.one header strong {
       color: rgb(250, 165, 8);
+    }
+    video {
+      
     }
 
 /* portfolio */
